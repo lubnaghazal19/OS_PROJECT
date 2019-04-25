@@ -61,4 +61,5 @@ count=0;
 printf("\naverage waiting time= %f\n",wait_timing*1.0/a);
 printf("\navarage turnaround time = %f",turnaround_timing*1.0/a);
 return 0;
+   cout<<endl;
 }
